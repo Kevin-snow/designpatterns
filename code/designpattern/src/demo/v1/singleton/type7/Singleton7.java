@@ -12,6 +12,7 @@ public class Singleton7 {
 
         System.out.println(singleton == singleton2);
 
+        Runtime
     }
 }
 
