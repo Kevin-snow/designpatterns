@@ -1,6 +1,7 @@
 package demo.structural.composite;
 
 /**
+ * 组合模式，主要用于树形结构和文件、文件夹场景。
  * create by kevin.
  *
  * @Date 2020/4/18
